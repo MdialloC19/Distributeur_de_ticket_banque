@@ -1,0 +1,14 @@
+D:\UNIVERSITE\DIC3\C# et.NET\Distributeur-tickets\DistributeurTicket\DistributeurTicket\bin\Debug\net8.0\DistributeurTicket.exe
+D:\UNIVERSITE\DIC3\C# et.NET\Distributeur-tickets\DistributeurTicket\DistributeurTicket\bin\Debug\net8.0\DistributeurTicket.deps.json
+D:\UNIVERSITE\DIC3\C# et.NET\Distributeur-tickets\DistributeurTicket\DistributeurTicket\bin\Debug\net8.0\DistributeurTicket.runtimeconfig.json
+D:\UNIVERSITE\DIC3\C# et.NET\Distributeur-tickets\DistributeurTicket\DistributeurTicket\bin\Debug\net8.0\DistributeurTicket.dll
+D:\UNIVERSITE\DIC3\C# et.NET\Distributeur-tickets\DistributeurTicket\DistributeurTicket\bin\Debug\net8.0\DistributeurTicket.pdb
+D:\UNIVERSITE\DIC3\C# et.NET\Distributeur-tickets\DistributeurTicket\DistributeurTicket\obj\Debug\net8.0\DistributeurTicket.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNIVERSITE\DIC3\C# et.NET\Distributeur-tickets\DistributeurTicket\DistributeurTicket\obj\Debug\net8.0\DistributeurTicket.AssemblyInfoInputs.cache
+D:\UNIVERSITE\DIC3\C# et.NET\Distributeur-tickets\DistributeurTicket\DistributeurTicket\obj\Debug\net8.0\DistributeurTicket.AssemblyInfo.cs
+D:\UNIVERSITE\DIC3\C# et.NET\Distributeur-tickets\DistributeurTicket\DistributeurTicket\obj\Debug\net8.0\DistributeurTicket.csproj.CoreCompileInputs.cache
+D:\UNIVERSITE\DIC3\C# et.NET\Distributeur-tickets\DistributeurTicket\DistributeurTicket\obj\Debug\net8.0\DistributeurTicket.dll
+D:\UNIVERSITE\DIC3\C# et.NET\Distributeur-tickets\DistributeurTicket\DistributeurTicket\obj\Debug\net8.0\refint\DistributeurTicket.dll
+D:\UNIVERSITE\DIC3\C# et.NET\Distributeur-tickets\DistributeurTicket\DistributeurTicket\obj\Debug\net8.0\DistributeurTicket.pdb
+D:\UNIVERSITE\DIC3\C# et.NET\Distributeur-tickets\DistributeurTicket\DistributeurTicket\obj\Debug\net8.0\DistributeurTicket.genruntimeconfig.cache
+D:\UNIVERSITE\DIC3\C# et.NET\Distributeur-tickets\DistributeurTicket\DistributeurTicket\obj\Debug\net8.0\ref\DistributeurTicket.dll
